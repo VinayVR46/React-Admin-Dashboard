@@ -1,0 +1,26 @@
+.table-container{
+    color: #fff;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.table-cell{
+    color: white;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+}
+.table-head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    color: white;
+    background: linear-gradient(45deg, #810551, #00464e) ;
+}
+.table-head h1{
+    font-size: 15px;
+}
